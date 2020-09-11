@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/modal-react/static/css/main.1c4325d2.chunk.css",
+    "main.js": "/modal-react/static/js/main.dcd69ac1.chunk.js",
+    "main.js.map": "/modal-react/static/js/main.dcd69ac1.chunk.js.map",
+    "runtime-main.js": "/modal-react/static/js/runtime-main.f6db189c.js",
+    "runtime-main.js.map": "/modal-react/static/js/runtime-main.f6db189c.js.map",
+    "static/js/2.25ede715.chunk.js": "/modal-react/static/js/2.25ede715.chunk.js",
+    "static/js/2.25ede715.chunk.js.map": "/modal-react/static/js/2.25ede715.chunk.js.map",
+    "index.html": "/modal-react/index.html",
+    "precache-manifest.14a3f189daee96e2f4db7038a37e4050.js": "/modal-react/precache-manifest.14a3f189daee96e2f4db7038a37e4050.js",
+    "service-worker.js": "/modal-react/service-worker.js",
+    "static/css/main.1c4325d2.chunk.css.map": "/modal-react/static/css/main.1c4325d2.chunk.css.map",
+    "static/js/2.25ede715.chunk.js.LICENSE.txt": "/modal-react/static/js/2.25ede715.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6db189c.js",
+    "static/js/2.25ede715.chunk.js",
+    "static/css/main.1c4325d2.chunk.css",
+    "static/js/main.dcd69ac1.chunk.js"
+  ]
+}
